@@ -13,7 +13,7 @@ I am a dedicated Computer Science student and Junior Developer with a strong fou
 
 ---
 
-## 🛠️ Technical Expertise (Tech Stack)
+##  Technical Expertise (Tech Stack)
 
 | Category | Technologies |
 | :--- | :--- |
