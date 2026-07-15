@@ -66,6 +66,7 @@ I am a dedicated Computer Science student and Junior Developer with a strong fou
   * *Topics Covered: C# Basics, XAML, .NET MAUI, and MVVM Architecture.*
 * **Hardware Basic (A+) Course** — *University of Computer Studies (Monywa) (Aug 2022)*
 
+📂 **[View my verified Certificates and Award Documents here!](./certificates)**
 ---
 
 ##  Contact & Collaboration
