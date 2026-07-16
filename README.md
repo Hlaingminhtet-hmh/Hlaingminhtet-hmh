@@ -68,6 +68,7 @@ I am a dedicated Computer Science student and Junior Developer with a strong fou
 
 📂 **[View my verified Certificates and Award Documents here!](./certificates)**
 ---
+##  GitHub Stats & Streak
 <p align="left">
   <a href="https://github.com/Hlaingminhtet-hmh">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hlaingminhtet-hmh&theme=dracula&hide_border=true" alt="GitHub Streak" />
