@@ -77,5 +77,6 @@ I am a dedicated Computer Science student and Junior Developer with a strong fou
 ##  Contact & Collaboration
 I am always open to discussing new projects, full-stack opportunities, or mobile development collaborations!
 
-* 📧 **Email:** [redskip140495htet@gmail.com](mailto:redskip140495htet@gmail.com)
-* 🖥️ **GitHub:** [Hlaingminhtet-hmh](https://github.com/Hlaingminhtet-hmh)
+*  **Email:** [redskip140495htet@gmail.com](mailto:redskip140495htet@gmail.com)
+*  **GitHub:** [Hlaingminhtet-hmh](https://github.com/Hlaingminhtet-hmh)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/hlaing-min-htet-513689408)
